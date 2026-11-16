@@ -9,12 +9,14 @@ MSc Business Data Analytics, Bangor University (February 2027) · Bangor, Wales 
 #### Featured projects
 
 **[Credit Default Scorecard](https://github.com/Youssef-Remmal-tech/credit-default-scorecard)** · Python · SQL (DuckDB) · scikit-learn
+
 A bank-style points scorecard for 30,000 card customers, with a machine-learning challenger, cut-off strategy, risk grades and fairness monitoring.
 - At an 80% approval rate, the scorecard cuts the default rate among approved customers from 22.1% to 14.2%.
 - The challenger's +0.062 Gini is statistically real, but at the same approval rate it prevents only about 37 more defaults per 9,000 applicants, so the trade-off against explainability is set out for the business.
 - [Live cut-off explorer](https://youssef-remmal-tech.github.io/credit-default-scorecard/) · [Validation report](https://github.com/Youssef-Remmal-tech/credit-default-scorecard/blob/main/reports/model_validation_report.md)
 
 **[Hospital Readmission Risk](https://github.com/Youssef-Remmal-tech/hospital-readmission-risk)** · Python · SQL (DuckDB) · scikit-learn
+
 Who should a care team call after discharge? A 30-day readmission model for 99,343 discharges, benchmarked against the LACE index that many hospitals already use.
 - Calling 20% of patients reaches 39% of future readmissions, against 27% with LACE.
 - That is 43% more readmissions prevented for the same staff time, based on a 42-trial evidence base.
@@ -42,6 +44,7 @@ Who should a care team call after discharge? A 30-day readmission model for 99,3
 - **Earlier:** sales advisor, and administrative and financial officer (2018–2021)
 
 **In progress:** Microsoft PL-300 (Power BI) · Google Data Analytics · Bloomberg Market Concepts
+
 **Languages:** English · French · Arabic · Darija
 
 ---
