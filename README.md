@@ -22,6 +22,13 @@ Who should a care team call after discharge? A 30-day readmission model for 99,3
 - That is 43% more readmissions prevented for the same staff time, based on a 42-trial evidence base.
 - [Live capacity planner](https://youssef-remmal-tech.github.io/hospital-readmission-risk/) · [Model card](https://github.com/Youssef-Remmal-tech/hospital-readmission-risk/blob/main/reports/model_card.md)
 
+**[Bank Customer Churn](https://github.com/Youssef-Remmal-tech/bank-customer-churn)** · R · caret · Power BI
+
+Which customers will close their account, and who should the retention team call first? Five models for 10,000 bank customers, k-means segments and a Power BI report.
+- Contacting the riskiest 20% of customers reaches 60% of the people who will leave, three times what random selection reaches.
+- Found and fixed a deployment bug: the Power BI prediction page only worked for one gender. Categorical inputs are now cast to the training levels, with tests to prove it.
+- [Live report](https://youssef-remmal-tech.github.io/bank-customer-churn/) · [The Power BI fix](https://github.com/Youssef-Remmal-tech/bank-customer-churn/blob/main/powerbi/README.md)
+
 ---
 
 #### How I work
