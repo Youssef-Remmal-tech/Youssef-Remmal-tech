@@ -1,6 +1,6 @@
 ### Hi, I'm Youssef Remmal
 
-**Data & risk analyst with 6+ years across banking, finance and sales.** I spent four of them in retail banking, managing customer portfolios under KYC and AML controls. Now I build credit, fraud and healthcare models and AI automations in Python and SQL, and test whether their numbers hold up before anyone relies on them.
+**Data & risk analyst with four years in retail banking.** At Banque Centrale Populaire I managed customer portfolios under KYC and AML controls, after earlier roles in finance administration and sales. Now I build credit, fraud and healthcare models and AI automations in Python, R and SQL, and test whether their numbers hold up before anyone relies on them.
 
 MSc Business Data Analytics, Bangor University (February 2027) · Bangor, Wales · Open to UK-wide, hybrid and remote roles
 
